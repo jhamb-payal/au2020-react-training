@@ -1,3 +1,15 @@
+AU training 2020 - React fundamentals
+## Topics covered
+ - ES6 concepts (Let/var/const, Template Literal, Map, filter, reduce, Destructuring,Class, Arrow functions)
+ - React Setup and Introduction
+ - React features
+ - Components
+ - Props and State
+ - JSX
+ - Lifecycle methods
+ - React and HTTP (Get/Post)
+ - Higher Order Component 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
