@@ -28,11 +28,11 @@ ReactDOM.render(
     <Welcome name = "Keshav"/>
     <Message name = "Ratan"/>
     <UserGreeting/> */}
-    {/* <List/> */}
-    {/* <GetList /> */}
-    {/* <PostList /> */}
+    {/* <List/>
+    <GetList />
+    <PostList />
     <ClickedComponent />
-    <HoveredComponent />
+    <HoveredComponent /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
